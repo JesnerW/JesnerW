@@ -47,7 +47,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/jesnerw/jesnerw/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/JesnerW/JesnerW/output/snake.svg" alt="Snake animation" />
 
 ###
 
