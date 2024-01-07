@@ -32,7 +32,7 @@
 
 <h2 align="left">Contact</h2>
 
-<p align="left">Linkedin: https://www.linkedin.com/in/jesnerw/<br>Gmail: jesner631@gmail.com<br>Discord: Wilian#1845</p>
+<p align="left">Linkedin: https://www.linkedin.com/in/jesnerw/<br>Porfolio: https://www.jesner.me<br>Email: jesner631@gmail.com<br>Discord: Wilian#1845</p>
 
 
 <div align="center">
